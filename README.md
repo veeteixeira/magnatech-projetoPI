@@ -1,2 +1,2 @@
 # magnatech-projetoPI
-https://veeteixeira.github.io/magnatech-projetoPI/index.html
+https://veeteixeira.github.io/magnatech-projetoPI/public/paginas/index.html
